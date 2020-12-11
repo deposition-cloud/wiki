@@ -10,9 +10,10 @@ author:
 ---
 # To Dos
 
-- [ ] extract wiki/ to multiple submodules
+- [x] extract wiki/ to multiple submodules
   - [ ] private repo wiki/pcuci
     - [ ] private data, only referenceble inside the private cloud
+  - [ ] try [DBPedia](https://wiki.dbpedia.org/) for structured data import
 - [ ] dvc images
   - [ ] to personal cloud persistent storage
     - [ ] backup-able, NFS?
@@ -21,7 +22,7 @@ author:
 
 ## Infrastructure as code
 
-- [ ] https://www.pulumi.com/docs/intro/concepts/config/#initializing-a-stack-with-alternative-encryption
+- [ ] [Pulumi 3rd party secrets](https://www.pulumi.com/docs/intro/concepts/config/#initializing-a-stack-with-alternative-encryption)
   - [ ] try Vault in K8s
     - [ ] should work for local (say minikube in wsl) cluster if k8s personal cloud is down
 - [ ] Save secrets to Keybase FS?
