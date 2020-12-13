@@ -80,7 +80,7 @@ For example:
 
 Examples of though process to improve our collective decision making.
 
-## Be Tactical
+## Be [Tactical](tactic)
 
 While the above are abstract, we need to make things happen.
 
