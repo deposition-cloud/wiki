@@ -12,6 +12,8 @@ author:
 
 Self-hosted [MicroK8s](https://microk8s.io/) on 3+ off-the-shelf Ubuntu boxes
 
+Be pragmatic and work on [ToDo](roadmap/todo-next)
+
 ## Standard Cloud Native Apps
 
 Run anything from:
@@ -33,6 +35,6 @@ Run anything from:
 - [Ansible](https://docs.ansible.com/ansible/latest/index.html) for configuration and deployment automation
 - [MAAS](https://maas.io/) for easy bootstrapping of new bare metal machines
 
-- [undefined](undefined)
+## Related
 
-[[undefined]]
+- [To Do's](roadmap/todo-next)

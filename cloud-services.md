@@ -11,6 +11,7 @@ author:
 # Systems
 
 We can think of a tree as the intersection of several systems
+
 - the sun
 - the earth
 - the atmosphere
@@ -19,10 +20,11 @@ We can think of a tree as the intersection of several systems
 Where these systems intersect and photosynthesis takes place, that's where we usually find a tree.
 
 For your life on the web, a few elements needs to fall into place all at the same time:
+
 - electricity
 - network
 - other servers
-- a program
+- a program, the set of instructions (from code or machine learned)
 - the physical device and all the logistics required to get it to your hands
 - you knowing how to operate the machine
 
