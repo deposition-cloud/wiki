@@ -18,9 +18,9 @@ Probably not the brightest way to do it; however, a good way to keep perfect his
 
 ## TODO
 
-Automate submodule creation and publishing
-
-Trigger could be size of content
+- [ ] Automate submodule creation and publishing
+- [ ] Trigger could be size of content
+- [ ] Handle future submodules with https://linux.die.net/man/1/mr
 
 ## Questions to ponder
 
